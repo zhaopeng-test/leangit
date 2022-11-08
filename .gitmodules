@@ -1,0 +1,4 @@
+[submodule "awesome-systemtap-cn"]
+	path = awesome-systemtap-cn
+	url = git@github.com:zhaopeng-test/awesome-systemtap-cn.git
+	branch = master
